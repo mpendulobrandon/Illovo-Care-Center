@@ -1,0 +1,60 @@
+
+.nav-wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 28px;
+    background-color: lightgray;
+}
+.left-side {
+    display: flex;
+    
+}
+.nav-wrapper > .left-side > div{
+    margin-right: 20px;
+    font-size: 0.9em;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.nav-link-wrapper > a {
+   color: #8a8a8a;
+   
+}
+.footer {
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+table {
+    border-spacing: 010px;
+}
+td {
+    width: 200px;
+    text-align: center;
+}
+.footer-info {
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer-info a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main > .contact-details > .contact-box h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.main > .contact-details > .contact-box p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.main > .contact-details > .contact-box a {
+    text-decoration: none;
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
